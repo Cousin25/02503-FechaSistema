@@ -35,11 +35,7 @@ public class Main {
         Date d = new Date();
         System.out.print("La fecha del sistema es: ");
         System.out.println(DF.format(d));
-
         //SDF.applyPattern(PATRON_FECHA_CORTA);
-
         //System.out.println(SDF.format(d.getTime()));
-
     }
-
 }
